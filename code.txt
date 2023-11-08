@@ -5,3 +5,6 @@ one more nice code block
 some experimental code
 testing some feature
 another test code
+adding new cool feature
+fixing bug in previous feature
+fixing bug in previous bugfix
