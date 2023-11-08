@@ -1,2 +1,3 @@
 git statusbrand new feature
 some new code
+and more new code 
